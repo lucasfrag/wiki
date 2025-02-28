@@ -1,16 +1,16 @@
 
 <!-- LOGO -->
 <p align="center">
-  <img src="logo.png" alt="Logo" width="80" height="80">
+  <img src="logo.jpg" alt="Logo" width="120">
   <h3 align="center">Wiki REMAKE</h3>
   
-  <p align="center">A web graphical interface for organizing and reading PDF files.</p>
+  <p align="center">A rebuild of the "Wiki" project I built during my college years to apply my web development knowledge..</p>
   <!-- TO DO PROJECT SHIELDS -->
   <div align="center">
-      <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lucasfrag/Akeno-Reader.svg?style=flat-square">  
-      <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/lucasfrag/Akeno-Reader.svg?style=flat-square"> 
-      <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/lucasfrag/Akeno-Reader.svg?style=flat-square"> 
-      <img alt="GitHub" src="https://img.shields.io/github/license/lucasfrag/Akeno-Reader.svg?style=flat-square">
+      <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lucasfrag/Wiki-REMAKE.svg?style=flat-square">  
+      <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/lucasfrag/Wiki-REMAKE.svg?style=flat-square"> 
+      <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/lucasfrag/Wiki-REMAKE.svg?style=flat-square"> 
+      <img alt="GitHub" src="https://img.shields.io/github/license/lucasfrag/Wiki-REMAKE.svg?style=flat-square">
   </div>
 </p>
 
@@ -84,8 +84,5 @@ This is a personal project created for me. It's a challenge I set for myself and
 It's a great exercise for you to see how far you've come with all these years of dedication and study.
 
 This is not a product, it's not a solution, it's not a service. This is a rescue of memories of the old me and a message to remind myself: you did it!
-
-## License
-Distributed under the MIT License. See LICENSE for more information.
 
 
