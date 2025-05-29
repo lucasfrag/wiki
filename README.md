@@ -2,7 +2,7 @@
 <!-- LOGO -->
 <p align="center">
   <img src="logo.jpg" alt="Logo" width="120">
-  <h3 align="center">Wiki REMAKE</h3>
+  <h3 align="center">Wiki</h3>
   
   <p align="center">A rebuild of the "Wiki" project I built during my college years to apply my web development knowledge.</p>
   <!-- TO DO PROJECT SHIELDS -->
