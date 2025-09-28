@@ -35,7 +35,7 @@ Now, in 2025, I revisited that project and, although it is not the best project 
 **This project was developed as part of an educational activity and is for educational purposes only.** 
 
 The project has several technical problems. At the time, I was still using *myqsl_connect()* because that was the function we used in PHP 5 to connect to the MySQL database.
-Besides, everything is a mess! Reorganizing this project would take a lot of time and even then it wouldn't solve the many structural problems it has. **It is not recommended for use in production environments.**
+Besides, everything is a mess! Reorganizing this project would take a lot of time and even then it wouldn't solve the many structural problems it has. **It is not recommended for use in production environments. ❌** 
 
 
 <!--
@@ -80,6 +80,5 @@ And, as long as the PC is turned on, it can also be accessed on the local networ
 - [PHP](https://www.php.net/)
 
 ## Contributing
-This is a personal project created for me. This is not a product, it's not a solution, it's not a service. This is a rescue of memories of the old me and a message to remind myself: you did it!
-
+This is a personal project created for me. This is not a product, it's not a solution, it's not a service. This is just a rescue of memories of the old me and its use is not recommended.
 
