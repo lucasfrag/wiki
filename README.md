@@ -4,7 +4,7 @@
   <img src="logo.jpg" alt="Logo" width="120">
   <h3 align="center">Wiki</h3>
   
-  <p align="center">A "Wiki" project I built during my college years to apply my web development knowledge.</p>
+  <p align="center">A "Wiki" project I created during my college years to apply my knowledge in web development.</p>
   <!-- TO DO PROJECT SHIELDS -->
   <!--
   <div align="center">
